@@ -14,4 +14,5 @@
     <string name="oldPassInput_text">Old password</string>
     <string name="newPassInput_text">New password</string>
     <string name="newPassInputRep_text">Repeat password</string>
+    <string name="changePasswordButton_text">Change password</string>
 </resources>
