@@ -3,10 +3,15 @@
 
     <string name="nicknameInput_text">Nickname</string>
     <string name="passwordInput_text">Password</string>
+    <string name="passwordInputRep_text">Confirm password</string>
     <string name="emailInput_text">E-Mail</string>
 
     <string name="authScreen_text">Authorization</string>
     <string name="regScreen_text">Registration</string>
     <string name="logInButton_text">Log in</string>
     <string name="registerButton_text">Register</string>
+
+    <string name="oldPassInput_text">Old password</string>
+    <string name="newPassInput_text">New password</string>
+    <string name="newPassInputRep_text">Repeat password</string>
 </resources>
