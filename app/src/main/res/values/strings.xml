@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">WorldOfSnakes</string>
+
+    <string name="nicknameInput_text">Nickname</string>
+    <string name="passwordInput_text">Password</string>
+    <string name="emailInput_text">E-Mail</string>
+
+    <string name="authScreen_text">Authorization</string>
+    <string name="regScreen_text">Registration</string>
+    <string name="logInButton_text">Log in</string>
+    <string name="registerButton_text">Register</string>
 </resources>
