@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/authorizationBackground">
+    android:background="@color/screenBackground">
 
     <TextView
         android:id="@+id/textView2"
@@ -23,7 +23,7 @@
         android:layout_width="260dp"
         android:layout_height="70dp"
         android:layout_marginBottom="100dp"
-        android:background="@color/logInButtonBackground"
+        android:background="@color/buttonBackground"
         android:ellipsize="none"
         android:text="@string/logInButton_text"
         app:layout_constraintBottom_toBottomOf="parent"

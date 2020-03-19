@@ -15,4 +15,9 @@
     <string name="newPassInput_text">New password</string>
     <string name="newPassInputRep_text">Repeat password</string>
     <string name="changePasswordButton_text">Change password</string>
+
+    <string name="singleplayerButton_text">Singleplayer</string>
+    <string name="multiplayerButton_text">Multiplayer</string>
+    <string name="profileButton_text">Profile</string>
+    <string name="settingsButton_text">Settings</string>
 </resources>
